@@ -2,7 +2,7 @@ const http = require('http');
 
 // Define the port and the message
 const PORT =2025;
-const message = "welcome sanjaysadasdasd234567876543234567";
+const message = "welcome sanjay";
 
 // Create an HTTP server
 const server = http.createServer((req, res) => {
